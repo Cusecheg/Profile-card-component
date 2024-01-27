@@ -75,47 +75,4 @@ p{
     margin-left: 5px;
 }
 
-@media only screen and (min-width: 375px){
-    #Top{
-        padding-bottom: 10px;
-    }
-    main{
-        width: 200px;
-        height: 250px;
-    }
-    img{
-        width: 60px;
-        height: 60px;
-        transform: translate(-50%, -150%);
-    }
-    
-    #Nome{
-        padding: 50px 5px 5px 5px;
-    
-    }
-    #Cidade{
-        padding-bottom: 20px;
-    }
-    
-    h1{
-        font-size: 12px;
-    }
-    p{
-        font-size: 10px;
-      
-    }
-    
-    #Nome p{
-        margin-left: 5px;
-    }
-    .attribution{
-        font-size: 8px;
-    }
-    
-    #Footer{
-        padding: 25px;
-    }
-
-
-}
     
